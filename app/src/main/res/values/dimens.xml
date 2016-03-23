@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="item_width">300dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="title_text_size">46sp</dimen>
+    <dimen name="header_text_size">34sp</dimen>
+    <dimen name="normal_text_size">14sp</dimen>
+    <dimen name="header_lr_margin">72dp</dimen>
+    <dimen name="header_bt_margin">48dp</dimen>
+    <dimen name="image_size_height">450dp</dimen>
+    <dimen name="image_size_width">650dp</dimen>
+</resources>
